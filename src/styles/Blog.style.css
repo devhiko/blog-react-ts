@@ -1,0 +1,33 @@
+.blog {
+  height: 190px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid lightgray;
+  overflow: hidden;
+}
+
+.blog:hover {
+  transition: box-shadow .2s ease-out;
+  box-shadow: 5px 5px 15px lightgray;
+}
+
+.blog:hover a {
+  color: lightseagreen;
+}
+
+.blog h4 {
+  margin: 0;
+}
+
+.blog p {
+  margin: 5px auto;
+}
+
+.blog small p {
+  display: inline-block;
+  margin: 10px 0px;
+}
+
+.blog .likes {
+  margin: 0px 5px;
+}

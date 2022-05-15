@@ -1,0 +1,28 @@
+.login {
+  padding: 10px;
+}
+
+.login a {
+  margin: 0px 5px;
+}
+
+.login form {
+  padding: 10px;
+}
+
+.login input {
+  font-size: 16px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.login input[type='submit'] {
+  padding: 10px 20px;
+  border: 1px solid lightgray;
+  background: none;
+}
+
+.login input[type='submit']:hover {
+  color: whitesmoke;
+  background: lightseagreen;
+}

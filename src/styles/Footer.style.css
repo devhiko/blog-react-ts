@@ -1,0 +1,13 @@
+.footer {
+  background: lightseagreen;
+  margin: 0;
+  box-shadow: 5px 5px 15px gray;
+}
+
+.footer p {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: 3px 0px 5px lightgray;
+}

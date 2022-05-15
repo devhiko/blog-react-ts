@@ -1,13 +1,49 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* GLOBALS */
+@import url('./styles/Root.style.css');
+/* GLOBALS END */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* APP STYLES  */
+@import url('./styles/App.style.css');
+/* APP STYLES END */
+
+/* ABOUT  */
+@import url('./styles/About.style.css');
+/* ABOUT END */
+
+/* CONTACT  */
+@import url('./styles/Contact.style.css');
+/* CONTACT END */
+
+/* LOGIN  */
+@import url('./styles/Login.style.css');
+/* LOGIN END */
+
+/* HEADER */
+@import url('./styles/Header.style.css');
+/* HEADER END */
+
+/* NAVBAR */
+@import url('./styles/Navbar.style.css');
+/* NAVBAR END */
+
+
+/* BLOGS */
+@import url('./styles/Blogs.style.css');
+/* BLOGS END */
+
+/* BLOG */
+@import url('./styles/Blog.style.css');
+/* BLOG END */
+
+/* BLOG DETAILS */
+@import url('./styles/BlogDetails.style.css');
+/* BLOG DETAILS END */
+
+
+/* FOOTER */
+@import url('./styles/Footer.style.css');
+/* FOOTER END */
+
+/* 404 PAGE */
+@import url('./styles/404.style.css');
+/* 404 PAGE END */

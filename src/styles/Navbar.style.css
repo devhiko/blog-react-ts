@@ -1,0 +1,14 @@
+.navbar ul {
+  margin: 5px 5px;
+  padding: 0;
+  float: right;
+}
+
+.navbar li {
+  padding: 10px;
+  display: inline-block;
+}
+
+.navbar a {
+  color: whitesmoke;
+}

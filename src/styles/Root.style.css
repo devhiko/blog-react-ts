@@ -1,0 +1,22 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  text-shadow: 3px 0px 5px lightgray;
+}
+
+a:hover {
+  color: lightseagreen;
+}
+
+ul {
+  list-style: none;
+}

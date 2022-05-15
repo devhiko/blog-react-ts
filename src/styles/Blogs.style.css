@@ -1,0 +1,11 @@
+.blogs {
+  width: 100%;
+  height: 1410px;
+  padding: 5px;
+  background: rgba(253, 250, 250, 0.103);
+}
+
+.blogs h3 {
+  margin: 10px 5px;
+  text-align: left;
+}
