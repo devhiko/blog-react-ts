@@ -10,6 +10,7 @@
     "@types/node": "^16.11.35",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.4",
+    "json-server": "^0.17.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
@@ -19,6 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "serve": "json-server --watch data/blogs.json --port 8000",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
