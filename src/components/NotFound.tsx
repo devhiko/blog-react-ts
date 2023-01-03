@@ -1,5 +1,5 @@
-import '../styles/404.style.css'
-import { Link } from 'react-router-dom'
+import { Link } from "react-router-dom";
+import "../styles/404.style.css";
 
 const NotFound = () => {
   return (
@@ -8,6 +8,6 @@ const NotFound = () => {
       <Link to="/">To home</Link>
     </div>
   );
-}
+};
 
 export default NotFound;

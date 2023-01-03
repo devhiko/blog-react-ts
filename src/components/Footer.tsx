@@ -1,4 +1,4 @@
-import '../styles/Footer.style.css'
+import "../styles/Footer.style.css";
 
 const Footer = () => {
   return (
@@ -6,6 +6,6 @@ const Footer = () => {
       <p>Paper Blog Inc.</p>
     </div>
   );
-}
+};
 
 export default Footer;

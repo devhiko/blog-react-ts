@@ -1,6 +1,6 @@
-export interface FetchData {
-  id: number,
-  title: string,
-  content: string,
-  author: string,
-}
+export type FetchData = {
+  id: number;
+  title: string;
+  content: string;
+  author: string;
+}[];
