@@ -9,9 +9,9 @@ interface BlogListProps {
 
 const BlogList = ({ blogs }: BlogListProps) => {
   return (
-    <div className="blog-list">
+    <div title="bloglist" className="blog-list">
       {blogs.map((blog) => (
-        <div className="blog" key={blog.id}>
+        <div title="blog" className="blog" key={blog.id}>
           <Link to={`/blogs/${blog.id}`}>
             <b>{blog.title}</b>
           </Link>

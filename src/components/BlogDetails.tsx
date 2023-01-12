@@ -32,7 +32,7 @@ const BlogDetails = () => {
   }, [id]);
 
   return (
-    <div className="blog-details">
+    <div title="details" className="blog-details">
       <h3>
         <b>{blog.title}</b>
       </h3>
