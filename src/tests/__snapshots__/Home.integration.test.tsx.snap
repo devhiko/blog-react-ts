@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render Home page and blogs in it 1`] = `
+Array [
+  <div
+    class="blog"
+    title="blog"
+  >
+    <a
+      href="/blogs/1"
+    >
+      <b>
+        Blog Title 1
+      </b>
+    </a>
+    <p>
+      Blog Content 1
+    </p>
+    <small>
+      <em>
+        <p>
+          Author: 
+          Blog Author
+        </p>
+      </em>
+    </small>
+  </div>,
+  <div
+    class="blog"
+    title="blog"
+  >
+    <a
+      href="/blogs/2"
+    >
+      <b>
+        Blog Title 2
+      </b>
+    </a>
+    <p>
+      Blog Content 2
+    </p>
+    <small>
+      <em>
+        <p>
+          Author: 
+          Blog Author
+        </p>
+      </em>
+    </small>
+  </div>,
+  <div
+    class="blog"
+    title="blog"
+  >
+    <a
+      href="/blogs/3"
+    >
+      <b>
+        Blog Title 3
+      </b>
+    </a>
+    <p>
+      Blog Content 3
+    </p>
+    <small>
+      <em>
+        <p>
+          Author: 
+          Blog Author
+        </p>
+      </em>
+    </small>
+  </div>,
+  <div
+    class="blog"
+    title="blog"
+  >
+    <a
+      href="/blogs/4"
+    >
+      <b>
+        Blog Title 4
+      </b>
+    </a>
+    <p>
+      Blog Content 4
+    </p>
+    <small>
+      <em>
+        <p>
+          Author: 
+          Blog Author
+        </p>
+      </em>
+    </small>
+  </div>,
+  <div
+    class="blog"
+    title="blog"
+  >
+    <a
+      href="/blogs/5"
+    >
+      <b>
+        Blog Title 5
+      </b>
+    </a>
+    <p>
+      Blog Content 5
+    </p>
+    <small>
+      <em>
+        <p>
+          Author: 
+          Blog Author
+        </p>
+      </em>
+    </small>
+  </div>,
+]
+`;
