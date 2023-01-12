@@ -3,12 +3,12 @@ import "../styles/Login.style.css";
 
 const Login = () => {
   return (
-    <div className="login">
-      <form action="">
+    <div title="log" className="login">
+      <form title="log-form" action="">
         <label>Username:</label>
-        <input type="text" /> <br />
+        <input type="text" placeholder="john doe" /> <br />
         <label>Password:</label>
-        <input type="password" /> <br />
+        <input type="password" placeholder="12345" /> <br />
         <input type="submit" value="Log In" />
         <Link to="/forgot">
           <small>Forgot Password</small>
